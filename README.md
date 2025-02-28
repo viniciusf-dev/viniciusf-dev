@@ -1,8 +1,26 @@
 ### Hello \0/
 
+
 - Software developer, currently working with LLMs
 - ☕ Wanna chat? Get in touch 👉 [Linkedin](https://www.linkedin.com/in/viniciusgferraz/)
 - [Personal website](https://vinicius-dev-ecru.vercel.app/)
+
+<a href="https://github.com/viniciusf-dev/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusf-dev&theme=neon" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusf-dev&layout=compact&langs_count=8&card_width=320&theme=neon" />
+</a>
+
+
+
+
+<a href="https://github.com/viniciusf-dev/smart.notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusf-dev&repo=smart.notes&theme=neon" />
+</a>
+<a href="https://github.com/viniciusf-dev/WhyItSucks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusf-dev&repo=whyitsucks&theme=neon" />
+</a>
 
  
 <div style="display: inline_block"><br>

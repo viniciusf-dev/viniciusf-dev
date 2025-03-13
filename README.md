@@ -45,15 +45,6 @@
 </div> 
 
 
-<h2>🎧 Now Playing</h2>
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22gkr2p73xcitwjpbkv2iraia&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-  </a>
 
-  <img height="200" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Marin_Kitagawa_automate_the_boring_stuff_with_python.png" />
-  
-</div>
 
 </div>

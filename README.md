@@ -5,17 +5,6 @@
 - ☕ Wanna chat? Get in touch 👉 [Linkedin](https://www.linkedin.com/in/viniciusgferraz/)
 - [Personal website](https://vinicius-dev-ecru.vercel.app/)
 
-##
-
-<a href="https://github.com/viniciusf-dev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusf-dev&theme=neon" />
-</a>
-
-<a href="https://github.com/viniciusf-dev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusf-dev&layout=compact&langs_count=8&card_width=320&theme=neon" />
-</a>
-
-<br>
 <br>
  
 <div style="display: inline_block"><br>

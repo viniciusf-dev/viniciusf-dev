@@ -5,8 +5,6 @@
 - ☕ Wanna chat? Get in touch 👉 [Linkedin](https://www.linkedin.com/in/viniciusgferraz/)
 - [Personal website](https://vinicius-dev-ecru.vercel.app/)
 
-<br>
- 
 <div style="display: inline_block"><br>
   <h2>🚀 My Tech Stack</h2>
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
